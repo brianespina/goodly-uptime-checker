@@ -313,7 +313,7 @@ func writeHTMLReport(results []Result, timestamp string) {
     .panel{background:#fff;border-radius:12px;padding:22px 20px;margin-bottom:18px;box-shadow:0 1px 3px rgba(0,0,0,.08)}
     .panel h2{font-size:16px;font-weight:600;margin-bottom:4px}
     .panel .sub{font-size:13px;color:#6b7280;margin-bottom:16px}
-    table{width:100%;border-collapse:collapse;font-size:14px}
+    table{width:100%%;border-collapse:collapse;font-size:14px}
     th{text-align:left;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:#9ca3af;padding:8px 10px;border-bottom:1px solid #f3f4f6}
     td{padding:11px 10px;border-bottom:1px solid #f9fafb;vertical-align:middle}
     tr:last-child td{border-bottom:none}
