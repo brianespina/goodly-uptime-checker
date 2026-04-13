@@ -24,10 +24,10 @@ jobs:
       - name: Run uptime checker
         run: go run main.go sites.txt
 
-      - name: Commit log
+      - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add logs/
-          git diff --cached --quiet || git commit -m "uptime log $(date -u '+%Y-%m-%d')"
+          git add logs/ docs/
+          git diff --cached --quiet || git commit -m "uptime report $(date -u '+%Y-%m-%d')"
           git push
