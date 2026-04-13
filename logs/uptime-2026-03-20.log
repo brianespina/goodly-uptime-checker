@@ -1,0 +1,484 @@
+=== 2026-03-20 08:43:49 ===
+ERROR    | https://offshorepropertyservices.com | HTTP 403 | 7241ms | SSL: 
+DOWN     | http://seaboardrestoration.com/ | ERROR: Get "http://callseaboard.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://platinumpaintingandserviceinc.com | HTTP 403 | 6178ms | SSL: 
+ERROR    | https://aandbauctionservices.com | HTTP 403 | 7249ms | SSL: 
+ERROR    | http://reidheatingandair.com | HTTP 403 | 1623ms | SSL: 
+ERROR    | https://pristineccs.com/ | HTTP 403 | 3978ms | SSL: 
+ERROR    | https://westcoastdents.com | HTTP 403 | 1878ms | SSL: 
+UP       | https://catoiletwhisperer.com | HTTP 200 | 2918ms | SSL: 
+ERROR    | https://ivyheatingandair.com | HTTP 403 | 1927ms | SSL: 
+ERROR    | https://primaryheatingandcooling.com | HTTP 403 | 1911ms | SSL: 
+ERROR    | https://businessnotions.com/ | HTTP 403 | 1926ms | SSL: 
+ERROR    | https://www.butzwelding.com | HTTP 403 | 6381ms | SSL: 
+ERROR    | https://brimicfoundation.com/ | HTTP 403 | 6097ms | SSL: 
+DOWN     | https://endlesssummercharters.com/ | ERROR: Get "https://endlesssummercharters.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://thekiddiekornerboutique.com | HTTP 403 | 7015ms | SSL: 
+ERROR    | https://safloralelegance.com | HTTP 403 | 6407ms | SSL: 
+ERROR    | http://allbrandsheatingandcooling.com | HTTP 403 | 6827ms | SSL: 
+DOWN     | http://plumbersouthfl.com | ERROR: Get "http://plumbersouthfl.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | http://wjauction.com | HTTP 403 | 1687ms | SSL: 
+DOWN     | https://txpanhandlelogistics.com | ERROR: Get "https://txpanhandlelogistics.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://mullinstruckingllc.com/ | ERROR: Get "https://mullinstruckingllc.com/": dial tcp: lookup mullinstruckingllc.com: Temporary failure in name resolution
+ERROR    | https://fratiplumbing.net | HTTP 403 | 1008ms | SSL: 
+ERROR    | https://loganshouse.com/ | HTTP 403 | 2137ms | SSL: 
+ERROR    | http://plantsunlimiteddurham.com | HTTP 403 | 707ms | SSL: 
+ERROR    | http://protechdiesel.biz/ | HTTP 403 | 1651ms | SSL: 
+ERROR    | https://cherrycreekshadesanddraperys.com | HTTP 403 | 1915ms | SSL: 
+ERROR    | https://centralmotorsale.com | HTTP 403 | 1913ms | SSL: 
+ERROR    | https://jsaengineers.com | HTTP 403 | 1866ms | SSL: 
+ERROR    | https://boilertechnologies.com | HTTP 403 | 3975ms | SSL: 
+ERROR    | https://trucarma.com/ | HTTP 403 | 1915ms | SSL: 
+ERROR    | https://wyomingarmoredservice.com | HTTP 403 | 3975ms | SSL: 
+ERROR    | https://brvparkpropane.com/ | HTTP 403 | 3975ms | SSL: 
+ERROR    | https://primeappraisalsmi.com | HTTP 403 | 1916ms | SSL: 
+DOWN     | https://newenglandgroupctinc.com | ERROR: Get "http://go-newengland.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.napavalleyfitness.com | HTTP 403 | 6964ms | SSL: 
+ERROR    | https://www.prosidingandwindows.net/ | HTTP 403 | 6028ms | SSL: 
+ERROR    | https://www.eocatx.com/ | HTTP 403 | 6974ms | SSL: 
+ERROR    | https://www.drainrooterplumbingsd.com/ | HTTP 403 | 6876ms | SSL: 
+ERROR    | https://glassimpressionslv.com | HTTP 403 | 1930ms | SSL: 
+ERROR    | https://shultarchitect.com | HTTP 403 | 2008ms | SSL: 
+ERROR    | https://inthemix-adc.com | HTTP 403 | 1966ms | SSL: 
+ERROR    | https://www.sexton-repairs.com/ | HTTP 403 | 7061ms | SSL: 
+DOWN     | https://fraserplumbingarkansas.com/ | ERROR: Get "https://fraserplumbingarkansas.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://foothillsmachininginc.com | ERROR: Get "https://foothillsmachininginc.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://rangerenovation.com | HTTP 403 | 7184ms | SSL: 
+ERROR    | https://modelcoelectric.com/ | HTTP 403 | 2150ms | SSL: 
+ERROR    | https://conveyor-tek.com | HTTP 403 | 1194ms | SSL: 
+ERROR    | http://longspest.com | HTTP 403 | 6864ms | SSL: 
+ERROR    | https://spindledynamicsaxlerepair.com | HTTP 403 | 7078ms | SSL: 
+ERROR    | https://mevoutdoor.com/ | HTTP 403 | 1860ms | SSL: 
+ERROR    | https://greenbushpros.com/ | HTTP 403 | 1918ms | SSL: 
+ERROR    | https://harveysarlesinsurance.com/ | HTTP 403 | 3975ms | SSL: 
+ERROR    | http://affordablerooter.com/ | HTTP 403 | 1673ms | SSL: 
+ERROR    | https://thomasmccannlaw.com | HTTP 403 | 1912ms | SSL: 
+DOWN     | https://southshoretruckrepair.com | ERROR: Get "https://southshoretruckrepair.com": dial tcp: lookup southshoretruckrepair.com: no such host
+ERROR    | https://pacificgaragerepair.com | HTTP 403 | 7237ms | SSL: 
+ERROR    | https://www.thespringking.net/ | HTTP 403 | 6959ms | SSL: 
+ERROR    | https://www.hansmotosports.com/ | HTTP 403 | 6859ms | SSL: 
+ERROR    | https://www.advancedalarmlock.com | HTTP 403 | 6890ms | SSL: 
+ERROR    | https://www.amishstonefirepits.com/ | HTTP 403 | 6907ms | SSL: 
+ERROR    | https://www.noatoutdoorliving.com/ | HTTP 403 | 7088ms | SSL: 
+ERROR    | https://campbellhuitt.com | HTTP 403 | 7185ms | SSL: 
+ERROR    | https://www.bulldogmovingclt.com/ | HTTP 403 | 1777ms | SSL: 
+DOWN     | https://terseptic.com | ERROR: Get "https://terseptic.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://www.nmwcattorneys.com/ | ERROR: Get "https://www.nmwcattorneys.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.jandpbikeshop.com/ | HTTP 403 | 6861ms | SSL: 
+ERROR    | https://angelabrowderhomecare.com/ | HTTP 403 | 3975ms | SSL: 
+ERROR    | https://www.5pointslandscaping.com/ | HTTP 403 | 6859ms | SSL: 
+ERROR    | https://carpettechcleaning.com | HTTP 403 | 3695ms | SSL: 
+ERROR    | https://www.mtccpressurewashing.com/ | HTTP 403 | 6857ms | SSL: 
+ERROR    | https://ochoaelectricsandiego.com | HTTP 403 | 7062ms | SSL: 
+ERROR    | https://vanityfairbaths.com | HTTP 403 | 6169ms | SSL: 
+ERROR    | https://www.asapcontainers.com/ | HTTP 403 | 5920ms | SSL: 
+DOWN     | https://www.boyleheatingandcooling.net/ | ERROR: Get "https://www.boyleheatingandcooling.net/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://www.zulaufconstruction.com | ERROR: Get "https://www.zulaufconstruction.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.carpetcleaningomaha.com | HTTP 403 | 6022ms | SSL: 
+DOWN     | https://cakeschocolatesandmore.com/ | ERROR: Get "https://cakeschocolatesandmore.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.victorytireauto.com | HTTP 403 | 6854ms | SSL: 
+DOWN     | https://windsorlimo.com | ERROR: Get "https://windsorlimo.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.howieglass.com/ | HTTP 403 | 6855ms | SSL: 
+ERROR    | https://www.xlsavebig.com | HTTP 403 | 6880ms | SSL: 
+ERROR    | https://www.oxicleaners.com | HTTP 403 | 6856ms | SSL: 
+ERROR    | https://petstylessalonandspa.com | HTTP 403 | 1917ms | SSL: 
+ERROR    | https://www.riverbluffcanecorsos.com | HTTP 403 | 6039ms | SSL: 
+ERROR    | https://stoversflooringanddraperycenter.com/ | HTTP 403 | 6099ms | SSL: 
+ERROR    | http://www.aseyourlight.com | HTTP 403 | 6864ms | SSL: 
+ERROR    | https://www.missouriglassinc.com/ | HTTP 403 | 6965ms | SSL: 
+DOWN     | https://www.coddingtonlock.com/ | ERROR: Get "https://www.coddingtonlock.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.andyperuginos.com/ | HTTP 403 | 6900ms | SSL: 
+ERROR    | https://tntcarpetcleaners.com | HTTP 403 | 6040ms | SSL: 
+ERROR    | https://www.opsct.com | HTTP 403 | 6959ms | SSL: 
+ERROR    | https://securitycompanyms.com | HTTP 403 | 7026ms | SSL: 
+ERROR    | https://abbottscatering.com | HTTP 403 | 7092ms | SSL: 
+ERROR    | https://timothymwilliamslaw.com | HTTP 403 | 1960ms | SSL: 
+ERROR    | https://www.garyhuebnerlaw.com/ | HTTP 403 | 7125ms | SSL: 
+ERROR    | https://www.thepoisonivyguy.com/ | HTTP 403 | 6387ms | SSL: 
+ERROR    | https://parkpharmacyrx.com | HTTP 403 | 1292ms | SSL: 
+ERROR    | https://gillettesignworks.com | HTTP 403 | 6155ms | SSL: 
+ERROR    | https://www.richroofing.com/ | HTTP 403 | 6068ms | SSL: 
+ERROR    | http://lassiterelectric.com | HTTP 403 | 1143ms | SSL: 
+ERROR    | https://www.fatpocketpawn.biz | HTTP 403 | 6365ms | SSL: 
+DOWN     | https://lockhartaircare.com | ERROR: Get "https://lockhartaircare.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.eaglewaterfiltration.com/ | HTTP 403 | 6858ms | SSL: 
+ERROR    | https://www.epsteinspaint.com/ | HTTP 403 | 7020ms | SSL: 
+ERROR    | https://www.appliancereliancellc.com/ | HTTP 403 | 6870ms | SSL: 
+ERROR    | https://www.timworthystransmissionrepairs.com/ | HTTP 403 | 6901ms | SSL: 
+DOWN     | https://www.cashgoldnj.com | ERROR: Get "https://www.cashgoldnj.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://dlacupuncture.com | ERROR: Get "https://dlacupuncture.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.rockyhillmeats.com/ | HTTP 403 | 6860ms | SSL: 
+ERROR    | https://www.absheatingandairconditioning.com/ | HTTP 403 | 6858ms | SSL: 
+ERROR    | https://tcpestsolutions.com/ | HTTP 403 | 1950ms | SSL: 
+DOWN     | https://www.tempbydesign.com/ | ERROR: Get "https://www.tempbydesign.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://tavosconstructionllc.com/ | HTTP 403 | 7017ms | SSL: 
+ERROR    | https://eastgeorgiatreeservice.com/ | HTTP 403 | 6099ms | SSL: 
+ERROR    | https://coastalcabinetsandgranite.com/ | HTTP 403 | 2008ms | SSL: 
+DOWN     | https://www.r7electricutah.com/ | ERROR: Get "https://www.r7electricutah.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://preferredremodeling.net/ | ERROR: Get "https://preferredremodeling.net/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.jml-electric.com | HTTP 403 | 6137ms | SSL: 
+ERROR    | http://resto-pros.net | HTTP 403 | 6755ms | SSL: 
+DOWN     | http://scconstruction.info | ERROR: Get "http://scconstruction.info": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.porteroutdoorservices.com/ | HTTP 403 | 7017ms | SSL: 
+DOWN     | http://killswitchauto.com | ERROR: Get "http://killswitchauto.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://coxdecorativeconcrete.com/ | HTTP 403 | 7063ms | SSL: 
+ERROR    | http://charlesfulkroaddisposal.com | HTTP 403 | 1623ms | SSL: 
+ERROR    | https://wireguyselectric.com/ | HTTP 403 | 1912ms | SSL: 
+ERROR    | https://www.dentconceptstx.com/ | HTTP 403 | 6972ms | SSL: 
+ERROR    | https://fincorefrigeration.com | HTTP 403 | 1919ms | SSL: 
+ERROR    | http://rocketcitymarine.com | HTTP 403 | 6816ms | SSL: 
+DOWN     | https://cleantechsystemsnm.com | ERROR: Get "https://cleantechsystemsnm.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://www.affordablecustomgolfcarts.com/ | ERROR: Get "https://www.affordablecustomgolfcarts.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://greenscapeslawns.com/ | ERROR: Get "https://greenscapeslawns.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://jtstree.com/ | ERROR: Get "https://jtstree.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.dixiefenceohio.com/ | HTTP 403 | 6022ms | SSL: 
+ERROR    | https://allkidsarespecial.net | HTTP 403 | 7013ms | SSL: 
+ERROR    | https://sgrcalifornia.com/ | HTTP 403 | 9401ms | SSL: 
+ERROR    | https://www.garysroofingandconst.com/ | HTTP 403 | 6864ms | SSL: 
+ERROR    | https://www.breezehvac.com/ | HTTP 403 | 6857ms | SSL: 
+ERROR    | https://rcpoolworks.com | HTTP 403 | 1194ms | SSL: 
+ERROR    | https://Freedomcarpet.net | HTTP 403 | 6173ms | SSL: 
+ERROR    | https://rolandoroofing.net | HTTP 403 | 1918ms | SSL: 
+ERROR    | http://ormondlandscaping.com/ | HTTP 403 | 6762ms | SSL: 
+ERROR    | https://www.alliedroofingco.com/ | HTTP 403 | 5918ms | SSL: 
+ERROR    | https://www.waterheatersracinewi.com/ | HTTP 403 | 7083ms | SSL: 
+ERROR    | https://www.atlanticdrywallandpaint.com/ | HTTP 403 | 6890ms | SSL: 
+ERROR    | https://grantsappliancerepairllc.com/ | HTTP 403 | 9401ms | SSL: 
+ERROR    | http://aaaexcavate.com | HTTP 403 | 6754ms | SSL: 
+ERROR    | https://gormanandsonslandscaping.com/ | HTTP 403 | 6162ms | SSL: 
+DOWN     | https://texasproroofing.net/ | ERROR: Get "https://texasproroofing.net/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.808towing.com/ | HTTP 403 | 6022ms | SSL: 
+ERROR    | https://www.jandbtreeservice.net/ | HTTP 403 | 6999ms | SSL: 
+ERROR    | https://sweetmountainair.co | HTTP 403 | 1963ms | SSL: 
+ERROR    | https://www.stormprosva.com/ | HTTP 403 | 6906ms | SSL: 
+ERROR    | https://www.atlantic217.com/ | HTTP 403 | 6853ms | SSL: 
+ERROR    | https://lakehamiltonappraisals.com/ | HTTP 403 | 7184ms | SSL: 
+ERROR    | https://kcservicecenterpa.com | HTTP 403 | 6021ms | SSL: 
+ERROR    | https://mobsfloorcare.com/ | HTTP 403 | 1950ms | SSL: 
+ERROR    | https://wennigercompressor.com/ | HTTP 403 | 7081ms | SSL: 
+DOWN     | https://mauicontainersales.com/ | ERROR: Get "https://www.mauicontainers.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.24-hourrefrigeration.com/ | HTTP 403 | 7091ms | SSL: 
+DOWN     | https://anteaterspestcontrol.net | ERROR: Get "https://anteaterspestcontrol.net": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | http://furniturefixxers.com | HTTP 403 | 5928ms | SSL: 
+ERROR    | https://www.apexgutters.com/ | HTTP 403 | 6969ms | SSL: 
+DOWN     | https://blackdogrr.com/ | ERROR: Get "https://blackdogrr.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://hogiesconstruction.com/ | HTTP 403 | 1916ms | SSL: 
+DOWN     | https://askyline.com/ | ERROR: Get "https://askyline.com/": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: current time 2026-03-20T08:43:37+08:00 is after 2025-08-16T10:17:48Z
+ERROR    | https://www.dbarrsvcs.com/ | HTTP 403 | 6903ms | SSL: 
+ERROR    | https://powellpestcontrol.net/ | HTTP 403 | 7014ms | SSL: 
+ERROR    | https://wireguys.com | HTTP 403 | 6158ms | SSL: 
+ERROR    | https://economysidingtn.com/ | HTTP 403 | 6163ms | SSL: 
+ERROR    | https://rsccontracting.org/ | HTTP 403 | 1916ms | SSL: 
+ERROR    | https://www.bhswelding.com/ | HTTP 403 | 6961ms | SSL: 
+ERROR    | https://www.yourfamilysalon.com/ | HTTP 403 | 6956ms | SSL: 
+ERROR    | https://www.alswelldrilling.com/ | HTTP 403 | 6909ms | SSL: 
+ERROR    | http://customoutdoorsolutionsny.com | HTTP 403 | 6888ms | SSL: 
+ERROR    | https://raffoulheatingandair.com | HTTP 403 | 6306ms | SSL: 
+DOWN     | http://dynamohi.com | ERROR: Get "http://dynamohi.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://danrandandassoc.com/ | HTTP 403 | 2019ms | SSL: 
+UP       | https://carbondalewoodshop.com/ | HTTP 200 | 6464ms | SSL: 
+ERROR    | https://smithhvacservices.com/index | HTTP 403 | 1003ms | SSL: 
+DOWN     | http://junk-punks.com/ | ERROR: Get "https://junk-punks.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.fndcontracting.com | HTTP 403 | 6975ms | SSL: 
+ERROR    | http://hopelandscaping.com | HTTP 403 | 1675ms | SSL: 
+ERROR    | https://larrysae.com | HTTP 403 | 1009ms | SSL: 
+ERROR    | https://www.ezoutcollisioncenter.com/ | HTTP 403 | 6867ms | SSL: 
+ERROR    | https://rsccontracting.org/ | HTTP 403 | 1919ms | SSL: 
+DOWN     | http://ccelectricbcs.com | ERROR: Get "http://ccelectricbcs.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | http://ccelectricbcs.com | ERROR: Get "http://ccelectricbcs.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://tropicglassenclosuresfl.com/ | ERROR: Get "https://tropicglassenclosuresfl.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.fireflycontractor.com/ | HTTP 403 | 6167ms | SSL: 
+ERROR    | https://www.tridentconstructiongp.com/ | HTTP 403 | 6854ms | SSL: 
+ERROR    | https://roettgerwelding.com/ | HTTP 403 | 7077ms | SSL: 
+DOWN     | https://azjanitorialservice.com | ERROR: Get "http://awashcleaning.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://camoconstructionllc.com/ | ERROR: Get "https://camoconstructionllc.com/": dial tcp: lookup camoconstructionllc.com: no such host
+ERROR    | https://totalcomfortcleaners.com | HTTP 403 | 7074ms | SSL: 
+DOWN     | https://www.brianemmonsroofing.com/ | ERROR: Get "https://www.brianemmonsroofing.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.customelitedetailcarwash.com/ | HTTP 403 | 6853ms | SSL: 
+ERROR    | https://www.noatoutdoorliving.com/ | HTTP 403 | 7085ms | SSL: 
+ERROR    | https://southfloridadockandseawall.com | HTTP 403 | 2032ms | SSL: 
+ERROR    | https://www.rselectricms.com | HTTP 403 | 6145ms | SSL: 
+DOWN     | http://allbrightcleaningkc.com | ERROR: Get "http://allbrightcleaningkc.com": dial tcp: lookup allbrightcleaningkc.com: no such host
+DOWN     | https://paintingbypros.com/ | ERROR: Get "https://paintingbypros.com/": dial tcp: lookup paintingbypros.com: no such host
+ERROR    | https://www.ancientcitygaragedoors.com | HTTP 403 | 7092ms | SSL: 
+ERROR    | https://www.mikeandmikeroofing.com/ | HTTP 403 | 6862ms | SSL: 
+ERROR    | https://maxpressfoundationrepair.com/ | HTTP 403 | 6174ms | SSL: 
+ERROR    | https://offshorepropertyservices.com | HTTP 403 | 7236ms | SSL: 
+DOWN     | http://dynamohi.com | ERROR: Get "http://dynamohi.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://patdollautomotivewi.com/ | ERROR: Get "https://patdollautomotivewi.com/": dial tcp: lookup patdollautomotivewi.com: Temporary failure in name resolution
+DOWN     | http://renewconstructionnm.com | ERROR: Get "http://renewconstructionnm.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | http://seaboardrestoration.com/ | ERROR: Get "http://callseaboard.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.fisherhomeinspectionsllc.com/ | HTTP 403 | 6862ms | SSL: 
+ERROR    | https://www.jmplumbersinc.com/ | HTTP 403 | 6974ms | SSL: 
+ERROR    | https://finishlineautotire.com/ | HTTP 403 | 1966ms | SSL: 
+ERROR    | http://vitosexpress.com | HTTP 403 | 1866ms | SSL: 
+ERROR    | https://www.thesignsolution.net/ | HTTP 403 | 6970ms | SSL: 
+ERROR    | https://bagremodelers.com/ | HTTP 403 | 1914ms | SSL: 
+ERROR    | https://www.problemtree.com | HTTP 403 | 6143ms | SSL: 
+ERROR    | https://capri-wash.com | HTTP 403 | 6102ms | SSL: 
+DOWN     | https://landscapeofbrainerd.com/ | ERROR: Get "https://landscapeofbrainerd.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://totalpackagelandscapeworksllc.com | HTTP 403 | 2025ms | SSL: 
+ERROR    | https://acesandblasting.co/ | HTTP 403 | 2231ms | SSL: 
+DOWN     | https://5startexasroofing.com/ | ERROR: Get "https://5startexasroofing.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://caudletreeservice.com/ | ERROR: Get "https://caudletreeservice.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.bayoustatemoving.com/ | HTTP 403 | 7079ms | SSL: 
+ERROR    | https://www.1classproperties.com/ | HTTP 403 | 7003ms | SSL: 
+ERROR    | https://www.1classrealty.com/ | HTTP 403 | 6868ms | SSL: 
+ERROR    | https://www.aimhighdetailing.com/ | HTTP 403 | 6863ms | SSL: 
+ERROR    | https://www.tampablindsbydesign.com/ | HTTP 403 | 6877ms | SSL: 
+ERROR    | http://thelocalplumber.com | HTTP 403 | 723ms | SSL: 
+ERROR    | https://frontieraircon.com/ | HTTP 403 | 3975ms | SSL: 
+ERROR    | https://www.saltlakecitycabinetry.com/ | HTTP 403 | 6857ms | SSL: 
+DOWN     | https://mantispestma.com | ERROR: Get "https://mantispestma.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://tyslandscapingiowa.com | HTTP 403 | 2132ms | SSL: 
+ERROR    | https://www.herrwelldrillingwi.com/ | HTTP 403 | 7085ms | SSL: 
+ERROR    | https://www.problemtree.com/ | HTTP 403 | 6142ms | SSL: 
+UP       | https://tandkventures.com/ | HTTP 200 | 1418ms | SSL: 
+ERROR    | http://muddyriversconcrete.com | HTTP 403 | 1728ms | SSL: 
+UP       | https://accurateandconfidentialtaxservice.com/ | HTTP 200 | 5763ms | SSL: 
+DOWN     | https://mcneelytreeservice.com/ | ERROR: Get "https://mcneelytreeservice.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://www.mvpgardencenter.com/ | ERROR: Get "https://www.mvpgardencenter.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://abccarpetcleanerssd.com | HTTP 403 | 2167ms | SSL: 
+
+=== 2026-03-20 08:50:25 ===
+ERROR    | https://offshorepropertyservices.com | HTTP 403 | 915ms | SSL: 
+DOWN     | http://seaboardrestoration.com/ | ERROR: Get "http://callseaboard.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://platinumpaintingandserviceinc.com | HTTP 403 | 907ms | SSL: 
+ERROR    | https://aandbauctionservices.com | HTTP 403 | 902ms | SSL: 
+ERROR    | http://reidheatingandair.com | HTTP 403 | 673ms | SSL: 
+ERROR    | https://pristineccs.com/ | HTTP 403 | 909ms | SSL: 
+ERROR    | https://westcoastdents.com | HTTP 403 | 963ms | SSL: 
+UP       | https://catoiletwhisperer.com | HTTP 200 | 714ms | SSL: 
+ERROR    | https://ivyheatingandair.com | HTTP 403 | 851ms | SSL: 
+ERROR    | https://primaryheatingandcooling.com | HTTP 403 | 953ms | SSL: 
+ERROR    | https://businessnotions.com/ | HTTP 403 | 821ms | SSL: 
+ERROR    | https://www.butzwelding.com | HTTP 403 | 1136ms | SSL: 
+ERROR    | https://brimicfoundation.com/ | HTTP 403 | 917ms | SSL: 
+ERROR    | https://endlesssummercharters.com/ | HTTP 403 | 925ms | SSL: 
+ERROR    | https://thekiddiekornerboutique.com | HTTP 403 | 917ms | SSL: 
+ERROR    | https://safloralelegance.com | HTTP 403 | 1024ms | SSL: 
+ERROR    | http://allbrandsheatingandcooling.com | HTTP 403 | 669ms | SSL: 
+DOWN     | http://plumbersouthfl.com | ERROR: Get "http://plumbersouthfl.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | http://wjauction.com | HTTP 403 | 671ms | SSL: 
+ERROR    | https://txpanhandlelogistics.com | HTTP 403 | 1734ms | SSL: 
+ERROR    | https://mullinstruckingllc.com/ | HTTP 403 | 907ms | SSL: 
+ERROR    | https://fratiplumbing.net | HTTP 403 | 905ms | SSL: 
+ERROR    | https://loganshouse.com/ | HTTP 403 | 1019ms | SSL: 
+ERROR    | http://plantsunlimiteddurham.com | HTTP 403 | 684ms | SSL: 
+ERROR    | http://protechdiesel.biz/ | HTTP 403 | 659ms | SSL: 
+ERROR    | https://cherrycreekshadesanddraperys.com | HTTP 403 | 903ms | SSL: 
+ERROR    | https://centralmotorsale.com | HTTP 403 | 829ms | SSL: 
+ERROR    | https://jsaengineers.com | HTTP 403 | 903ms | SSL: 
+ERROR    | https://boilertechnologies.com | HTTP 403 | 906ms | SSL: 
+ERROR    | https://trucarma.com/ | HTTP 403 | 851ms | SSL: 
+ERROR    | https://wyomingarmoredservice.com | HTTP 403 | 907ms | SSL: 
+ERROR    | https://brvparkpropane.com/ | HTTP 403 | 816ms | SSL: 
+ERROR    | https://primeappraisalsmi.com | HTTP 403 | 903ms | SSL: 
+DOWN     | https://newenglandgroupctinc.com | ERROR: Get "http://go-newengland.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.napavalleyfitness.com | HTTP 403 | 903ms | SSL: 
+ERROR    | https://www.prosidingandwindows.net/ | HTTP 403 | 903ms | SSL: 
+ERROR    | https://www.eocatx.com/ | HTTP 403 | 903ms | SSL: 
+ERROR    | https://www.drainrooterplumbingsd.com/ | HTTP 403 | 914ms | SSL: 
+ERROR    | https://glassimpressionslv.com | HTTP 403 | 922ms | SSL: 
+ERROR    | https://shultarchitect.com | HTTP 403 | 922ms | SSL: 
+ERROR    | https://inthemix-adc.com | HTTP 403 | 965ms | SSL: 
+DOWN     | https://www.sexton-repairs.com/ | ERROR: Get "https://www.sexton-repairs.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://fraserplumbingarkansas.com/ | HTTP 403 | 966ms | SSL: 
+ERROR    | https://foothillsmachininginc.com | HTTP 403 | 904ms | SSL: 
+ERROR    | https://rangerenovation.com | HTTP 403 | 818ms | SSL: 
+ERROR    | https://modelcoelectric.com/ | HTTP 403 | 919ms | SSL: 
+ERROR    | https://conveyor-tek.com | HTTP 403 | 903ms | SSL: 
+ERROR    | http://longspest.com | HTTP 403 | 707ms | SSL: 
+ERROR    | https://spindledynamicsaxlerepair.com | HTTP 403 | 916ms | SSL: 
+ERROR    | https://mevoutdoor.com/ | HTTP 403 | 901ms | SSL: 
+ERROR    | https://greenbushpros.com/ | HTTP 403 | 910ms | SSL: 
+ERROR    | https://harveysarlesinsurance.com/ | HTTP 403 | 901ms | SSL: 
+DOWN     | http://affordablerooter.com/ | ERROR: Get "http://affordablerooter.com/": dial tcp: lookup affordablerooter.com: Temporary failure in name resolution
+ERROR    | https://thomasmccannlaw.com | HTTP 403 | 927ms | SSL: 
+ERROR    | https://southshoretruckrepair.com | HTTP 403 | 914ms | SSL: 
+ERROR    | https://pacificgaragerepair.com | HTTP 403 | 905ms | SSL: 
+ERROR    | https://www.thespringking.net/ | HTTP 403 | 903ms | SSL: 
+ERROR    | https://www.hansmotosports.com/ | HTTP 403 | 900ms | SSL: 
+ERROR    | https://www.advancedalarmlock.com | HTTP 403 | 903ms | SSL: 
+DOWN     | https://www.amishstonefirepits.com/ | ERROR: Get "https://www.amishstonefirepits.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.noatoutdoorliving.com/ | HTTP 403 | 909ms | SSL: 
+ERROR    | https://campbellhuitt.com | HTTP 403 | 911ms | SSL: 
+ERROR    | https://www.bulldogmovingclt.com/ | HTTP 403 | 864ms | SSL: 
+ERROR    | https://terseptic.com | HTTP 403 | 1188ms | SSL: 
+ERROR    | https://www.nmwcattorneys.com/ | HTTP 403 | 902ms | SSL: 
+ERROR    | https://www.jandpbikeshop.com/ | HTTP 403 | 952ms | SSL: 
+DOWN     | https://angelabrowderhomecare.com/ | ERROR: Get "https://angelabrowderhomecare.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://www.5pointslandscaping.com/ | ERROR: Get "https://www.5pointslandscaping.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://carpettechcleaning.com | HTTP 403 | 917ms | SSL: 
+ERROR    | https://www.mtccpressurewashing.com/ | HTTP 403 | 903ms | SSL: 
+ERROR    | https://ochoaelectricsandiego.com | HTTP 403 | 903ms | SSL: 
+ERROR    | https://vanityfairbaths.com | HTTP 403 | 921ms | SSL: 
+ERROR    | https://www.asapcontainers.com/ | HTTP 403 | 947ms | SSL: 
+DOWN     | https://www.boyleheatingandcooling.net/ | ERROR: Get "http://boyleheatingandcooling.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.zulaufconstruction.com | HTTP 403 | 1141ms | SSL: 
+ERROR    | https://www.carpetcleaningomaha.com | HTTP 403 | 903ms | SSL: 
+ERROR    | https://cakeschocolatesandmore.com/ | HTTP 403 | 883ms | SSL: 
+ERROR    | https://www.victorytireauto.com | HTTP 403 | 906ms | SSL: 
+ERROR    | https://windsorlimo.com | HTTP 403 | 917ms | SSL: 
+ERROR    | https://www.howieglass.com/ | HTTP 403 | 896ms | SSL: 
+ERROR    | https://www.xlsavebig.com | HTTP 403 | 905ms | SSL: 
+ERROR    | https://www.oxicleaners.com | HTTP 403 | 949ms | SSL: 
+ERROR    | https://petstylessalonandspa.com | HTTP 403 | 967ms | SSL: 
+DOWN     | https://www.riverbluffcanecorsos.com | ERROR: Get "https://www.riverbluffcanecorsos.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://stoversflooringanddraperycenter.com/ | HTTP 403 | 928ms | SSL: 
+ERROR    | http://www.aseyourlight.com | HTTP 403 | 663ms | SSL: 
+ERROR    | https://www.missouriglassinc.com/ | HTTP 403 | 902ms | SSL: 
+ERROR    | https://www.coddingtonlock.com/ | HTTP 403 | 945ms | SSL: 
+ERROR    | https://www.andyperuginos.com/ | HTTP 403 | 891ms | SSL: 
+DOWN     | https://tntcarpetcleaners.com | ERROR: Get "https://tntcarpetcleaners.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.opsct.com | HTTP 403 | 904ms | SSL: 
+ERROR    | https://securitycompanyms.com | HTTP 403 | 901ms | SSL: 
+ERROR    | https://abbottscatering.com | HTTP 403 | 914ms | SSL: 
+ERROR    | https://timothymwilliamslaw.com | HTTP 403 | 959ms | SSL: 
+DOWN     | https://www.garyhuebnerlaw.com/ | ERROR: Get "https://www.garyhuebnerlaw.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://www.thepoisonivyguy.com/ | ERROR: Get "https://www.thepoisonivyguy.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://parkpharmacyrx.com | HTTP 403 | 1063ms | SSL: 
+ERROR    | https://gillettesignworks.com | HTTP 403 | 910ms | SSL: 
+ERROR    | https://www.richroofing.com/ | HTTP 403 | 1086ms | SSL: 
+DOWN     | http://lassiterelectric.com | ERROR: Get "http://lassiterelectric.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.fatpocketpawn.biz | HTTP 403 | 949ms | SSL: 
+ERROR    | https://lockhartaircare.com | HTTP 403 | 903ms | SSL: 
+ERROR    | https://www.eaglewaterfiltration.com/ | HTTP 403 | 946ms | SSL: 
+ERROR    | https://www.epsteinspaint.com/ | HTTP 403 | 951ms | SSL: 
+ERROR    | https://www.appliancereliancellc.com/ | HTTP 403 | 900ms | SSL: 
+DOWN     | https://www.timworthystransmissionrepairs.com/ | ERROR: Get "https://www.timworthystransmissionrepairs.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.cashgoldnj.com | HTTP 403 | 905ms | SSL: 
+ERROR    | https://dlacupuncture.com | HTTP 403 | 910ms | SSL: 
+ERROR    | https://www.rockyhillmeats.com/ | HTTP 403 | 903ms | SSL: 
+ERROR    | https://www.absheatingandairconditioning.com/ | HTTP 403 | 895ms | SSL: 
+ERROR    | https://tcpestsolutions.com/ | HTTP 403 | 907ms | SSL: 
+ERROR    | https://www.tempbydesign.com/ | HTTP 403 | 914ms | SSL: 
+ERROR    | https://tavosconstructionllc.com/ | HTTP 403 | 906ms | SSL: 
+ERROR    | https://eastgeorgiatreeservice.com/ | HTTP 403 | 901ms | SSL: 
+ERROR    | https://coastalcabinetsandgranite.com/ | HTTP 403 | 925ms | SSL: 
+DOWN     | https://www.r7electricutah.com/ | ERROR: Get "https://www.r7electricutah.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://preferredremodeling.net/ | HTTP 403 | 1148ms | SSL: 
+ERROR    | https://www.jml-electric.com | HTTP 403 | 901ms | SSL: 
+ERROR    | http://resto-pros.net | HTTP 403 | 700ms | SSL: 
+DOWN     | http://scconstruction.info | ERROR: Get "https://scconstruction.info/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://www.porteroutdoorservices.com/ | ERROR: Get "https://www.porteroutdoorservices.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | http://killswitchauto.com | HTTP 403 | 669ms | SSL: 
+ERROR    | https://coxdecorativeconcrete.com/ | HTTP 403 | 893ms | SSL: 
+ERROR    | http://charlesfulkroaddisposal.com | HTTP 403 | 674ms | SSL: 
+ERROR    | https://wireguyselectric.com/ | HTTP 403 | 919ms | SSL: 
+ERROR    | https://www.dentconceptstx.com/ | HTTP 403 | 899ms | SSL: 
+ERROR    | https://fincorefrigeration.com | HTTP 403 | 909ms | SSL: 
+ERROR    | http://rocketcitymarine.com | HTTP 403 | 699ms | SSL: 
+ERROR    | https://cleantechsystemsnm.com | HTTP 403 | 916ms | SSL: 
+DOWN     | https://www.affordablecustomgolfcarts.com/ | ERROR: Get "https://www.affordablecustomgolfcarts.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://greenscapeslawns.com/ | HTTP 403 | 915ms | SSL: 
+ERROR    | https://jtstree.com/ | HTTP 403 | 967ms | SSL: 
+ERROR    | https://www.dixiefenceohio.com/ | HTTP 403 | 1078ms | SSL: 
+ERROR    | https://allkidsarespecial.net | HTTP 403 | 900ms | SSL: 
+DOWN     | https://sgrcalifornia.com/ | ERROR: Get "https://sgrcalifornia.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.garysroofingandconst.com/ | HTTP 403 | 893ms | SSL: 
+DOWN     | https://www.breezehvac.com/ | ERROR: Get "https://www.breezehvac.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://rcpoolworks.com | ERROR: Get "https://rcpoolworks.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://Freedomcarpet.net | HTTP 403 | 911ms | SSL: 
+ERROR    | https://rolandoroofing.net | HTTP 403 | 906ms | SSL: 
+ERROR    | http://ormondlandscaping.com/ | HTTP 403 | 672ms | SSL: 
+ERROR    | https://www.alliedroofingco.com/ | HTTP 403 | 903ms | SSL: 
+ERROR    | https://www.waterheatersracinewi.com/ | HTTP 403 | 905ms | SSL: 
+ERROR    | https://www.atlanticdrywallandpaint.com/ | HTTP 403 | 910ms | SSL: 
+ERROR    | https://grantsappliancerepairllc.com/ | HTTP 403 | 925ms | SSL: 
+ERROR    | http://aaaexcavate.com | HTTP 403 | 689ms | SSL: 
+ERROR    | https://gormanandsonslandscaping.com/ | HTTP 403 | 925ms | SSL: 
+ERROR    | https://texasproroofing.net/ | HTTP 403 | 901ms | SSL: 
+ERROR    | https://www.808towing.com/ | HTTP 403 | 900ms | SSL: 
+ERROR    | https://www.jandbtreeservice.net/ | HTTP 403 | 999ms | SSL: 
+DOWN     | https://sweetmountainair.co | ERROR: Get "https://sweetmountainair.co": dial tcp: lookup sweetmountainair.co: Temporary failure in name resolution
+DOWN     | https://www.stormprosva.com/ | ERROR: Get "https://www.stormprosva.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.atlantic217.com/ | HTTP 403 | 1012ms | SSL: 
+ERROR    | https://lakehamiltonappraisals.com/ | HTTP 403 | 912ms | SSL: 
+ERROR    | https://kcservicecenterpa.com | HTTP 403 | 889ms | SSL: 
+ERROR    | https://mobsfloorcare.com/ | HTTP 403 | 953ms | SSL: 
+DOWN     | https://wennigercompressor.com/ | ERROR: Get "https://wennigercompressor.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://mauicontainersales.com/ | ERROR: Get "https://www.mauicontainers.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://www.24-hourrefrigeration.com/ | ERROR: Get "https://www.24-hourrefrigeration.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://anteaterspestcontrol.net | HTTP 403 | 900ms | SSL: 
+ERROR    | http://furniturefixxers.com | HTTP 403 | 708ms | SSL: 
+ERROR    | https://www.apexgutters.com/ | HTTP 403 | 1068ms | SSL: 
+ERROR    | https://blackdogrr.com/ | HTTP 403 | 907ms | SSL: 
+DOWN     | https://hogiesconstruction.com/ | ERROR: Get "https://hogiesconstruction.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://askyline.com/ | ERROR: Get "https://askyline.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://www.dbarrsvcs.com/ | ERROR: Get "https://www.dbarrsvcs.com/": dial tcp: lookup www.dbarrsvcs.com: Temporary failure in name resolution
+ERROR    | https://powellpestcontrol.net/ | HTTP 403 | 905ms | SSL: 
+ERROR    | https://wireguys.com | HTTP 403 | 1073ms | SSL: 
+ERROR    | https://economysidingtn.com/ | HTTP 403 | 905ms | SSL: 
+ERROR    | https://rsccontracting.org/ | HTTP 403 | 912ms | SSL: 
+ERROR    | https://www.bhswelding.com/ | HTTP 403 | 900ms | SSL: 
+ERROR    | https://www.yourfamilysalon.com/ | HTTP 403 | 900ms | SSL: 
+DOWN     | https://www.alswelldrilling.com/ | ERROR: Get "https://www.alswelldrilling.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | http://customoutdoorsolutionsny.com | HTTP 403 | 645ms | SSL: 
+ERROR    | https://raffoulheatingandair.com | HTTP 403 | 953ms | SSL: 
+ERROR    | http://dynamohi.com | HTTP 403 | 594ms | SSL: 
+ERROR    | https://danrandandassoc.com/ | HTTP 403 | 917ms | SSL: 
+UP       | https://carbondalewoodshop.com/ | HTTP 200 | 1090ms | SSL: 
+ERROR    | https://smithhvacservices.com/index | HTTP 403 | 959ms | SSL: 
+DOWN     | http://junk-punks.com/ | ERROR: Get "https://junk-punks.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.fndcontracting.com | HTTP 403 | 903ms | SSL: 
+ERROR    | http://hopelandscaping.com | HTTP 403 | 672ms | SSL: 
+DOWN     | https://larrysae.com | ERROR: Get "https://larrysae.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://www.ezoutcollisioncenter.com/ | ERROR: Get "https://www.ezoutcollisioncenter.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://rsccontracting.org/ | HTTP 403 | 912ms | SSL: 
+ERROR    | http://ccelectricbcs.com | HTTP 403 | 658ms | SSL: 
+ERROR    | http://ccelectricbcs.com | HTTP 403 | 658ms | SSL: 
+ERROR    | https://tropicglassenclosuresfl.com/ | HTTP 403 | 893ms | SSL: 
+ERROR    | https://www.fireflycontractor.com/ | HTTP 403 | 903ms | SSL: 
+ERROR    | https://www.tridentconstructiongp.com/ | HTTP 403 | 900ms | SSL: 
+ERROR    | https://roettgerwelding.com/ | HTTP 403 | 900ms | SSL: 
+DOWN     | https://azjanitorialservice.com | ERROR: Get "http://awashcleaning.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://camoconstructionllc.com/ | HTTP 403 | 888ms | SSL: 
+ERROR    | https://totalcomfortcleaners.com | HTTP 403 | 964ms | SSL: 
+ERROR    | https://www.brianemmonsroofing.com/ | HTTP 403 | 1230ms | SSL: 
+DOWN     | https://www.customelitedetailcarwash.com/ | ERROR: Get "https://www.customelitedetailcarwash.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.noatoutdoorliving.com/ | HTTP 403 | 907ms | SSL: 
+ERROR    | https://southfloridadockandseawall.com | HTTP 403 | 909ms | SSL: 
+ERROR    | https://www.rselectricms.com | HTTP 403 | 1187ms | SSL: 
+ERROR    | http://allbrightcleaningkc.com | HTTP 403 | 665ms | SSL: 
+ERROR    | https://paintingbypros.com/ | HTTP 403 | 912ms | SSL: 
+ERROR    | https://www.ancientcitygaragedoors.com | HTTP 403 | 901ms | SSL: 
+ERROR    | https://www.mikeandmikeroofing.com/ | HTTP 403 | 901ms | SSL: 
+ERROR    | https://maxpressfoundationrepair.com/ | HTTP 403 | 914ms | SSL: 
+ERROR    | https://offshorepropertyservices.com | HTTP 403 | 912ms | SSL: 
+ERROR    | http://dynamohi.com | HTTP 403 | 618ms | SSL: 
+ERROR    | https://patdollautomotivewi.com/ | HTTP 403 | 892ms | SSL: 
+DOWN     | http://renewconstructionnm.com | ERROR: Get "https://renewconstructionnm.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | http://seaboardrestoration.com/ | ERROR: Get "http://callseaboard.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://www.fisherhomeinspectionsllc.com/ | HTTP 403 | 897ms | SSL: 
+ERROR    | https://www.jmplumbersinc.com/ | HTTP 403 | 926ms | SSL: 
+ERROR    | https://finishlineautotire.com/ | HTTP 403 | 902ms | SSL: 
+ERROR    | http://vitosexpress.com | HTTP 403 | 831ms | SSL: 
+ERROR    | https://www.thesignsolution.net/ | HTTP 403 | 1025ms | SSL: 
+ERROR    | https://bagremodelers.com/ | HTTP 403 | 959ms | SSL: 
+DOWN     | https://www.problemtree.com | ERROR: Get "https://www.problemtree.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://capri-wash.com | HTTP 403 | 912ms | SSL: 
+ERROR    | https://landscapeofbrainerd.com/ | HTTP 403 | 900ms | SSL: 
+DOWN     | https://totalpackagelandscapeworksllc.com | ERROR: Get "https://totalpackagelandscapeworksllc.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://acesandblasting.co/ | HTTP 403 | 1153ms | SSL: 
+ERROR    | https://5startexasroofing.com/ | HTTP 403 | 900ms | SSL: 
+ERROR    | https://caudletreeservice.com/ | HTTP 403 | 947ms | SSL: 
+ERROR    | https://www.bayoustatemoving.com/ | HTTP 403 | 900ms | SSL: 
+ERROR    | https://www.1classproperties.com/ | HTTP 403 | 900ms | SSL: 
+ERROR    | https://www.1classrealty.com/ | HTTP 403 | 948ms | SSL: 
+ERROR    | https://www.aimhighdetailing.com/ | HTTP 403 | 905ms | SSL: 
+DOWN     | https://www.tampablindsbydesign.com/ | ERROR: Get "https://www.tampablindsbydesign.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | http://thelocalplumber.com | HTTP 403 | 763ms | SSL: 
+ERROR    | https://frontieraircon.com/ | HTTP 403 | 900ms | SSL: 
+ERROR    | https://www.saltlakecitycabinetry.com/ | HTTP 403 | 903ms | SSL: 
+DOWN     | https://mantispestma.com | ERROR: Get "https://mantispestma.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | https://tyslandscapingiowa.com | HTTP 403 | 888ms | SSL: 
+ERROR    | https://www.herrwelldrillingwi.com/ | HTTP 403 | 908ms | SSL: 
+DOWN     | https://www.problemtree.com/ | ERROR: Get "https://www.problemtree.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+DOWN     | https://tandkventures.com/ | ERROR: Get "https://tandkventures.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+ERROR    | http://muddyriversconcrete.com | HTTP 403 | 652ms | SSL: 
+UP       | https://accurateandconfidentialtaxservice.com/ | HTTP 200 | 1017ms | SSL: 
+UP       | https://mcneelytreeservice.com/ | HTTP 200 | 1816ms | SSL: 
+ERROR    | https://www.mvpgardencenter.com/ | HTTP 403 | 894ms | SSL: 
+ERROR    | https://abccarpetcleanerssd.com | HTTP 403 | 1062ms | SSL: 
+

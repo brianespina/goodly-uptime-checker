@@ -1,0 +1,15 @@
+=== 2026-03-19 20:35:26 ===
+DOWN     | https://espinabrian.com/ | ERROR: Get "https://espinabrian.com/": dial tcp: lookup espinabrian.com: no such host
+UP       | https://google.com | HTTP 200 | 686ms | SSL: 2026-04-13 (24 days)
+UP       | https://github.com | HTTP 200 | 318ms | SSL: 2026-06-03 (76 days)
+
+=== 2026-03-19 22:43:00 ===
+DOWN     | https://espinabrian.com/ | ERROR: Get "https://espinabrian.com/": dial tcp: lookup espinabrian.com: no such host
+UP       | https://google.com | HTTP 200 | 366ms | SSL: 2026-04-13 (24 days)
+UP       | https://github.com | HTTP 200 | 147ms | SSL: 2026-06-03 (76 days)
+
+=== 2026-03-19 23:28:18 ===
+DOWN     | https://espinabrian.com/ | ERROR: Get "https://espinabrian.com/": dial tcp: lookup espinabrian.com: no such host
+UP       | https://google.com | HTTP 200 | 638ms | SSL: 2026-04-13 (24 days)
+UP       | https://github.com | HTTP 200 | 430ms | SSL: 2026-06-03 (76 days)
+
